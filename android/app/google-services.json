@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "519845511056",
+    "project_id": "projetinfo-40210",
+    "storage_bucket": "projetinfo-40210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519845511056:android:790ce3018b3f0d20b13d15",
+        "android_client_info": {
+          "package_name": "com.mycompany.molomolo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519845511056-qffo32m5l1sd8e7j1cut5461gfpa2mln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxKAwTzIbNNLD4eNuy2HgnHm-pYMPNIG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519845511056-qffo32m5l1sd8e7j1cut5461gfpa2mln.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "519845511056-td1es8ffnhag9o5j2p55rne3fg0u8o8l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.molomolo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
